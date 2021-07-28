@@ -19,13 +19,13 @@
 .btn-outline-primary:hover{
     border-radius: 1em;
     background-color: #5975D9 !important;
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 .btn-outline-primary{
     border-radius: 1em;
     background-color: #4D68C9 !important;
     color: white !important;
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 .nav-link{
     color: #4D68C9 !important;
