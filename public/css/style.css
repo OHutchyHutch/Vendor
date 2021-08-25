@@ -16,12 +16,12 @@
   }
 @media screen and (max-width: 575px) {
     .navlogo {
-      width: 50% !important;
+      width: 60% !important;
     }
 }
 @media screen and (min-width: 576px) {
     .navlogo {
-      width: 40% !important;
+      width: 50% !important;
     }
 }
 @media screen and (min-width: 992px) {
